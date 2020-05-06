@@ -13,7 +13,7 @@ library(dplyr)
 # update.packages()
 #packageVersion("dplyr")
 
-df <- read.csv("C:\\Users\\SHO\\OneDrive\\ドキュメント\\R Script\\Input\\macrodata.csv")
+df <- read.csv("macrodata.csvのパス")
 
 str(df)
 
